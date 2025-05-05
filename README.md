@@ -1,12 +1,20 @@
 ## Hi there , this is krisha thapa👋
+ 
+ I’m a junior studying Computer Science, and this is where I drop my code, side projects, and experiments — the wins, the work-in-progress stuff, and everything in between.
+ I started programming a few years ago, mostly through classes and curiosity, and I’ve been hooked ever since. I’ve worked with Python, Java, and C++ (yep, the classics), and I’m     
+ always trying to level up my skills by building things that are actually useful or just plain fun.
+ Most of what you’ll find here are things I’ve built for school, personal learning, or just to see if I could (looking at you, random CLI tools and half-finished web apps). I’m really 
+ into solving problems, understanding how stuff works under the hood, and making projects that feel like they mean something.
 
-- 🔭 I’m currently a computer science student at CUNY-Queens College,diving deep into the world of code and algorithms.
-- 🌱 Right now, I'm mastering Object-Oriented Programming (OOP) in C++ and getting hands-on with Computer Assembly Language.
-- 👯 I’m looking to collaborate on on projects that solve real-world problems or just fun, creative ideas! Got a project in mind? Let’s team up and make it happen.
-- 🤔 I’m always eager to learn from others. If you have tips on advanced C++ concepts, Assembly Language hacks, or just want to share your coding journey
-- 💬 Ask me about my favorite coding projects. How I stay motivated when debugging feels like a never-ending maze. My thoughts on the future of tech and AI.
-- 📫 How to reach me: krishathapa465@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact:
- --> I have a secret passion for cooking! When I am not coding, I am experimenting in the kitchen—whether cooking homemade desi foods.
-     Turns out, coding and cooking have a lot in common: both require precision, creativity, and a willingness to learn from your mistakes.
+Right now, I’m focused on:
+
+Writing cleaner, more readable code, getting better at algorithms and data structures, learning more about backend dev and system design.
+
+Tools I usually mess with:
+
+Python, Java, C++, Git/GitHub (slowly mastering the art of good commits),VS Code, Linux, basic web dev (HTML/CSS/JS), SQL, and whatever I’m curious about that week.
+
+I’m still figuring it all out, but I’m proud of how far I’ve come. Always open to feedback, collabs, or just connecting with other devs who are learning too.
+
+Thanks for checking out my GitHub. Let’s keep building cool things 🚀
+
